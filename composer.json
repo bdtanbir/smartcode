@@ -1,0 +1,15 @@
+{
+    "name": "tanbirahmed/smartcode",
+    "autoload": {
+        "psr-4": {
+            "Tanbirahmed\\Smartcode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tanbir Ahmed",
+            "email": "tanbirsylhet20@gmail.com"
+        }
+    ],
+    "require": {}
+}
